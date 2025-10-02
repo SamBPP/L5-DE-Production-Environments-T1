@@ -1,0 +1,89 @@
+[2025-10-02T12:42:38.720+0000] {manager.py:470} INFO - Processing files using up to 1 processes at a time 
+[2025-10-02T12:42:38.722+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-10-02T12:42:38.722+0000] {manager.py:472} INFO - Checking for new files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags every 300 seconds
+[2025-10-02T12:42:38.722+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T12:42:38.725+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T12:47:38.857+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T12:47:38.858+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T12:52:38.996+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T12:52:38.996+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T12:57:39.131+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T12:57:39.131+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:02:39.263+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:02:39.264+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:07:39.393+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:07:39.394+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:12:39.524+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:12:39.525+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:17:39.652+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:17:39.652+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:22:39.780+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:22:39.781+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:27:39.913+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:27:39.913+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:32:40.046+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:32:40.047+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:37:40.176+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:37:40.177+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:42:40.202+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:42:40.202+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:47:40.431+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:47:40.432+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:52:40.559+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:52:40.560+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:57:40.702+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T13:57:40.702+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:02:40.829+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:02:40.829+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:07:40.956+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:07:40.957+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:12:41.085+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:12:41.085+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:17:41.213+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:17:41.213+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:22:41.340+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:22:41.341+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:27:41.492+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:27:41.492+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:32:41.626+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:32:41.627+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:37:41.771+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:37:41.772+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:42:41.906+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:42:41.906+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:47:42.040+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:47:42.040+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:52:42.180+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:52:42.180+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:57:42.312+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T14:57:42.312+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:02:42.442+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:02:42.443+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:07:42.553+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:07:42.553+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:12:42.568+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:12:42.569+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:17:42.802+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:17:42.803+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:22:42.931+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:22:42.931+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:27:43.060+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:27:43.060+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:32:43.188+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:32:43.188+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:37:43.315+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:37:43.316+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:42:43.432+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:42:43.433+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:47:43.568+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:47:43.569+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:52:43.696+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:52:43.696+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:57:43.825+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T15:57:43.825+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T16:02:43.962+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T16:02:43.963+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T16:07:44.095+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T16:07:44.095+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T16:12:44.215+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-02T16:12:44.215+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags

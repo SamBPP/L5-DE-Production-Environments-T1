@@ -1,3 +1,4 @@
 pandas>=2.0
 pytest>=8.0
 ruff>=0.6
+apache-airflow==2.9.3
