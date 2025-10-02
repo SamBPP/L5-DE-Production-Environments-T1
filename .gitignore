@@ -4,8 +4,9 @@ __pycache__/
 *.pyo
 *.DS_Store
 output/
-Data/
 *.csv.gz
 .coverage
 .cache/
 .pytest_cache/
+.airflow/
+*.db
