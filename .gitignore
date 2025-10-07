@@ -8,5 +8,4 @@ output/
 .coverage
 .cache/
 .pytest_cache/
-.airflow/
-*.db
+*.log

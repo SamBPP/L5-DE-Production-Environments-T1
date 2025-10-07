@@ -7,6 +7,11 @@
   "containerEnv": {
     "AIRFLOW_HOME": "${containerWorkspaceFolder}/.airflow",
     "AIRFLOW__CORE__LOAD_EXAMPLES": "False",
+    "AIRFLOW__WEBSERVER__ENABLE_PROXY_FIX": "True",
+    "AIRFLOW__WEBSERVER__PROXY_FIX_X_FOR": "1",
+    "AIRFLOW__WEBSERVER__PROXY_FIX_X_PROTO": "1",
+    "AIRFLOW__WEBSERVER__PROXY_FIX_X_HOST": "1",
+    "AIRFLOW__WEBSERVER__PROXY_FIX_X_PORT": "1",
     "PYTHONPATH": "${containerWorkspaceFolder}"
   },
   "forwardPorts": [8080],

@@ -88,3 +88,276 @@
 [2025-10-02T16:12:44.215+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
 [2025-10-02T16:12:44.215+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
 [2025-10-02T16:16:23.431+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-07T14:50:01.028+0000] {manager.py:470} INFO - Processing files using up to 1 processes at a time 
+[2025-10-07T14:50:01.051+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-10-07T14:50:01.052+0000] {manager.py:472} INFO - Checking for new files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags every 300 seconds
+[2025-10-07T14:50:01.052+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T14:50:01.052+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T14:55:01.146+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T14:55:01.146+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:00:01.273+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:00:01.274+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:05:01.402+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:05:01.403+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:11:26.783+0000] {manager.py:470} INFO - Processing files using up to 1 processes at a time 
+[2025-10-07T15:11:26.783+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-10-07T15:11:26.783+0000] {manager.py:472} INFO - Checking for new files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags every 300 seconds
+[2025-10-07T15:11:26.783+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:11:26.785+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:16:26.841+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:16:26.842+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:21:26.875+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:21:26.875+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:26:26.908+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:26:26.909+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:31:26.947+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:31:26.948+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:36:26.980+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:36:26.980+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:41:27.018+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:41:27.018+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:46:27.052+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:46:27.052+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:51:27.086+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:51:27.086+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:56:27.117+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T15:56:27.118+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:01:27.150+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:01:27.151+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:04:18.897+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-07T16:04:27.170+0000] {manager.py:470} INFO - Processing files using up to 1 processes at a time 
+[2025-10-07T16:04:27.174+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-10-07T16:04:27.175+0000] {manager.py:472} INFO - Checking for new files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags every 300 seconds
+[2025-10-07T16:04:27.175+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:04:27.175+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:09:27.195+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:09:27.196+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:14:27.234+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:14:27.235+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:16:06.658+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-07T16:16:16.299+0000] {manager.py:470} INFO - Processing files using up to 1 processes at a time 
+[2025-10-07T16:16:16.299+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-10-07T16:16:16.299+0000] {manager.py:472} INFO - Checking for new files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags every 300 seconds
+[2025-10-07T16:16:16.299+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:16:16.300+0000] {manager.py:740} INFO - There are 0 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:21:03.409+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-07T16:21:14.011+0000] {manager.py:470} INFO - Processing files using up to 1 processes at a time 
+[2025-10-07T16:21:14.013+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-10-07T16:21:14.014+0000] {manager.py:472} INFO - Checking for new files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags every 300 seconds
+[2025-10-07T16:21:14.014+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:21:14.018+0000] {manager.py:740} INFO - There are 2 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:21:14.203+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:21:14
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           0           0
+================================================================================
+[2025-10-07T16:21:45.394+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.61s           2025-10-07T16:21:15
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.20s           2025-10-07T16:21:45
+================================================================================
+[2025-10-07T16:22:16.518+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.51s           2025-10-07T16:21:46
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:22:16
+================================================================================
+[2025-10-07T16:22:46.713+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.61s           2025-10-07T16:22:18
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:22:46
+================================================================================
+[2025-10-07T16:23:16.910+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.41s           2025-10-07T16:22:49
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:23:16
+================================================================================
+[2025-10-07T16:23:47.640+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.51s           2025-10-07T16:23:20
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:23:47
+================================================================================
+[2025-10-07T16:24:17.747+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.41s           2025-10-07T16:23:51
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:24:17
+================================================================================
+[2025-10-07T16:24:48.195+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.40s           2025-10-07T16:24:22
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:24:48
+================================================================================
+[2025-10-07T16:25:18.926+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.40s           2025-10-07T16:24:53
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:25:18
+================================================================================
+[2025-10-07T16:25:50.014+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.62s           2025-10-07T16:25:24
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:25:50
+================================================================================
+[2025-10-07T16:26:14.038+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:26:14.039+0000] {manager.py:740} INFO - There are 2 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:26:20.295+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.40s           2025-10-07T16:25:55
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:26:20
+================================================================================
+[2025-10-07T16:26:50.518+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.41s           2025-10-07T16:26:26
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:26:50
+================================================================================
+[2025-10-07T16:27:20.767+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.41s           2025-10-07T16:26:57
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:27:20
+================================================================================
+[2025-10-07T16:27:51.014+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.51s           2025-10-07T16:27:28
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:27:51
+================================================================================
+[2025-10-07T16:28:22.094+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.40s           2025-10-07T16:28:08
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:28:22
+================================================================================
+[2025-10-07T16:28:52.312+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.40s           2025-10-07T16:28:39
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:28:52
+================================================================================
+[2025-10-07T16:29:22.528+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.51s           2025-10-07T16:29:09
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:29:22
+================================================================================
+[2025-10-07T16:29:52.747+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.41s           2025-10-07T16:29:40
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:29:52
+================================================================================
+[2025-10-07T16:31:39.822+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-07T16:31:39.955+0000] {manager.py:470} INFO - Processing files using up to 1 processes at a time 
+[2025-10-07T16:31:39.956+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-10-07T16:31:39.956+0000] {manager.py:472} INFO - Checking for new files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags every 300 seconds
+[2025-10-07T16:31:39.956+0000] {manager.py:737} INFO - Searching for files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:31:39.958+0000] {manager.py:740} INFO - There are 2 files in /workspaces/L5-DE-Production-Environments-T1/.airflow/dags
+[2025-10-07T16:31:40.493+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.51s           2025-10-07T16:31:40
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             0           0
+================================================================================
+[2025-10-07T16:32:11.685+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.50s           2025-10-07T16:32:11
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:31:41
+================================================================================
+[2025-10-07T16:32:42.793+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.41s           2025-10-07T16:32:42
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:32:12
+================================================================================
+[2025-10-07T16:33:14.004+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.41s           2025-10-07T16:33:14
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:32:43
+================================================================================
+[2025-10-07T16:33:45.302+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/pipeline_dags.py                           1           0  0.51s           2025-10-07T16:33:45
+/workspaces/L5-DE-Production-Environments-T1/.airflow/dags/_smoke_test.py                             1           0  0.10s           2025-10-07T16:33:15
+================================================================================

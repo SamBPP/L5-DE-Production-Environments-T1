@@ -3,9 +3,9 @@ import argparse
 import shutil
 from datetime import datetime
 from pathlib import Path
-from pipeline.config import DATA_DIR, PROCESSED_DIR, MASTER_OUTPUT, FILE_GLOB, CHUNK_SIZE, KEEP_COLS, DTYPES
-from pipeline.io_utils import iter_chunks, write_chunk
-from pipeline.transform import select_keep_cols, sanity_checks
+from .config import DATA_DIR, PROCESSED_DIR, MASTER_OUTPUT, FILE_GLOB, CHUNK_SIZE, KEEP_COLS, DTYPES
+from .io_utils import iter_chunks, write_chunk
+from .transform import select_keep_cols, sanity_checks
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
