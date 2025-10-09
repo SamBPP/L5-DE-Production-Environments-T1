@@ -3,8 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.DS_Store
-output/
-*.csv.gz
+master.csv.gz
 .coverage
 .cache/
 .pytest_cache/
